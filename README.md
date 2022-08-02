@@ -1,1 +1,1 @@
-# app-man2 contains all the relevant code for this assignment
+# app-man2 contains all the code for this assignment
